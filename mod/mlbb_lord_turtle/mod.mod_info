@@ -1,6 +1,6 @@
 {
   "name": "MLBB: Elemental Lord & Turtle",
-  "author": "your-name-here",
+  "author": "Bl0rryFac3",
   "version": "0.1.16",
   "description": "TFM2 0.7.2 isolation candidate: custom minimap overlay, Turtle reward probe and objective disk logging disabled. Retains v0.1.15 Lord combat, body animation and English objective names.",
   "last_updated": "2026-11-17",
