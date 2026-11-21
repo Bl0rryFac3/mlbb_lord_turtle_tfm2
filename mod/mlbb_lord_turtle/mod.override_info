@@ -1,0 +1,58 @@
+{
+  "asset/base/aseprite_resources/ingame/serpen": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/turtle",
+    "type": "override"
+  },
+  "asset/base/aseprite_resources/ingame/epic": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/elemental_lord",
+    "type": "override"
+  },
+  "asset/base/ui/icons/serpen_sticker_blue": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/turtle_sticker_blue",
+    "type": "override"
+  },
+  "asset/base/ui/icons/serpen_sticker_red": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/turtle_sticker_red",
+    "type": "override"
+  },
+  "asset/base/ui/icons/morgard_sticker_blue": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/lord_sticker_blue",
+    "type": "override"
+  },
+  "asset/base/ui/icons/morgard_sticker_red": {
+    "remapping": "asset/mlbb_lord_turtle/sprites/lord_sticker_red",
+    "type": "override"
+  },
+  "asset/base/text/object": {
+    "remapping": "asset/mlbb_lord_turtle/text/object",
+    "type": "merge"
+  },
+  "asset/base/aseprite_resources/champions/mlbb_lord_push#anim": {
+    "remapping": "asset/mlbb_lord_turtle/champions/mlbb_lord_push#anim",
+    "type": "override"
+  },
+  "asset/base/aseprite_resources/champions/mlbb_lord_push#sheet": {
+    "remapping": "asset/mlbb_lord_turtle/champions/mlbb_lord_push#sheet",
+    "type": "override"
+  },
+  "asset/base/aseprite_resources/champions/mlbb_lord_controller#anim": {
+    "remapping": "asset/mlbb_lord_turtle/champions/mlbb_lord_controller#anim",
+    "type": "override"
+  },
+  "asset/base/aseprite_resources/champions/mlbb_lord_controller#sheet": {
+    "remapping": "asset/mlbb_lord_turtle/champions/mlbb_lord_controller#sheet",
+    "type": "override"
+  },
+  "asset/base/text/ui": {
+    "remapping": "asset/mlbb_lord_turtle/text/ui",
+    "type": "merge"
+  },
+  "asset/base/text/chat": {
+    "remapping": "asset/mlbb_lord_turtle/text/chat",
+    "type": "merge"
+  },
+  "asset/base/aseprite_resources/champions/mlbb_lord_push": {
+    "remapping": "asset/mlbb_lord_turtle/champions/mlbb_lord_push",
+    "type": "override"
+  }
+}

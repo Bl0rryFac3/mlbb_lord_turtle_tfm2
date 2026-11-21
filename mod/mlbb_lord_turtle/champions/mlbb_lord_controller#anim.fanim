@@ -1,0 +1,121 @@
+{
+  "anims": {
+    "base": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "idle": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "run": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "walk": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "attack": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "dead": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "skill": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "skill2": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    "ult": {
+      "frames": [
+        {
+          "duration": 1.0,
+          "data": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "en": {
+    "database_edit": {
+      "number_field": {
+        "epic_jungle": "Elemental Lord",
+        "serpen_jungle": "Turtle",
+        "epic_minion_buff_duration": "Elemental Lord Minion Buff Duration",
+        "epic_minion_buff_range": "Elemental Lord Minion Buff Range"
+      },
+      "number_morgard_buff_section": "Elemental Lord Minion Buff",
+      "number_morgard_buff_increase_section": "Elemental Lord Buff Growth",
+      "number_serpen_buff_section": "Turtle Champion Buff"
+    },
+    "training": {
+      "comp_test": {
+        "history_objects": "Elemental Lord {Morgard} / Turtle {Serpen} / Towers {BlueTower}/{RedTower}",
+        "summary_objects": "Elemental Lord {Morgard} / Turtle {Serpen}\nTowers destroyed Blue {BlueTower} / Red {RedTower}"
+      }
+    },
+    "match": {
+      "log": {
+        "red_epic": "<#f7b1b8ff>Red Team<> has slain Elemental Lord!",
+        "blue_epic": "<#adb9ffff>Blue Team<> has slain Elemental Lord!",
+        "red_serpen": "<#f7b1b8ff>Red Team<> has slain Turtle!",
+        "blue_serpen": "<#adb9ffff>Blue Team<> has slain Turtle!"
+      }
+    },
+    "ingame": {
+      "epic": "Elemental Lord Slain",
+      "serpen": "Turtle Slain"
+    },
+    "set_result": {
+      "epic": "Elemental Lord",
+      "serpen": "Turtle",
+      "graph_blue_epic": "Blue Team Elemental Lord Kill",
+      "graph_red_epic": "Red Team Elemental Lord Kill",
+      "graph_blue_serpen": "Blue Team Turtle Kill",
+      "graph_red_serpen": "Red Team Turtle Kill"
+    }
+  }
+}

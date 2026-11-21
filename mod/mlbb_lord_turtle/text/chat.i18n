@@ -1,0 +1,698 @@
+{
+  "en": {
+    "reaction": {
+      "serpen_stolen": [
+        "Ugh... they stole Turtle",
+        "So close, we almost had it",
+        "Lost the last hit, unlucky",
+        "Wow, they took it..."
+      ],
+      "serpen_stolen_broken": [
+        "Turtle stolen",
+        "So close, almost had",
+        "Last hit lost",
+        "They took it..."
+      ],
+      "serpen_stolen_very_broken": [
+        "Stolen",
+        "So close",
+        "Ugh...",
+        "Turtle..."
+      ],
+      "morgard_stolen": [
+        "Ugh... they stole Elemental Lord",
+        "So close, we almost had it",
+        "Lost the last hit, unlucky",
+        "Wow, they took it..."
+      ],
+      "morgard_stolen_broken": [
+        "Elemental Lord stolen",
+        "So close, almost had",
+        "Last hit lost",
+        "They took it..."
+      ],
+      "morgard_stolen_very_broken": [
+        "Stolen",
+        "So close",
+        "Ugh...",
+        "Elemental Lord..."
+      ],
+      "serpen_steal": [
+        "Nice steal!",
+        "Wow, we took it!",
+        "{Name}, great steal",
+        "Turtle steal!"
+      ],
+      "morgard_steal": [
+        "Nice steal!",
+        "Wow, we took it!",
+        "{Name}, great steal",
+        "Elemental Lord steal!"
+      ],
+      "serpen_steal_broken": [
+        "Nice steal!",
+        "Wow, took it!",
+        "{Name} good steal",
+        "Turtle steal!"
+      ],
+      "morgard_steal_broken": [
+        "Nice steal!",
+        "Wow, took it!",
+        "{Name} good steal",
+        "Elemental Lord steal!"
+      ],
+      "no_help_reply": {
+        "serpen": [
+          "I was watching Turtle",
+          "I was at Turtle, couldn't make it"
+        ],
+        "morgard": [
+          "I was watching Elemental Lord",
+          "I was at Elemental Lord, couldn't make it"
+        ],
+        "serpen_broken": [
+          "Watching Turtle",
+          "At Turtle, no go"
+        ],
+        "morgard_broken": [
+          "Watching Elemental Lord",
+          "At Elemental Lord, no go"
+        ],
+        "serpen_very_broken": [
+          "Turtle",
+          "Turtle side"
+        ],
+        "morgard_very_broken": [
+          "Elemental Lord",
+          "Elemental Lord side"
+        ]
+      }
+    },
+    "serpen": {
+      "prepare": [
+        "Turtle spawns in {Time}s",
+        "Turtle’s up soon",
+        "Turtle’s almost here"
+      ],
+      "prepare_broken": [
+        "Turtle soon {Time}s",
+        "Turtle up soon",
+        "Turtle coming"
+      ],
+      "prepare_very_broken": [
+        "Turtle soon",
+        "Turtle",
+        "Soon"
+      ],
+      "setup": [
+        "Looks good for Turtle. Heading there",
+        "Let’s prep for Turtle",
+        "Planning for Turtle"
+      ],
+      "setup_broken": [
+        "Turtle good, going",
+        "Prep Turtle",
+        "Plan Turtle"
+      ],
+      "setup_very_broken": [
+        "Turtle prep",
+        "Turtle",
+        "Turtle go"
+      ],
+      "check": [
+        "Checking vision around Turtle",
+        "Scouting Turtle",
+        "Warding Turtle now"
+      ],
+      "check_broken": [
+        "Check Turtle vision",
+        "Scout Turtle",
+        "Ward Turtle"
+      ],
+      "check_very_broken": [
+        "Turtle check",
+        "Turtle scout",
+        "Turtle ward"
+      ],
+      "enemy_hunt": [
+        "They might be on Turtle. Let's check",
+        "Enemy’s probably at Turtle",
+        "Turtle pit looks fishy, check it"
+      ],
+      "enemy_hunt_broken": [
+        "Enemy maybe Turtle, check",
+        "Enemy at Turtle",
+        "Turtle pit weird, check"
+      ],
+      "enemy_hunt_very_broken": [
+        "Enemy Turtle",
+        "Turtle enemy",
+        "Check Turtle"
+      ],
+      "assemble": [
+        "Group up at Turtle",
+        "Rally at Turtle",
+        "Everyone to Turtle!"
+      ],
+      "assemble_broken": [
+        "Group Turtle",
+        "Rally Turtle",
+        "All to Turtle!"
+      ],
+      "assemble_very_broken": [
+        "Turtle group",
+        "Turtle",
+        "Turtle rally"
+      ],
+      "hunt": [
+        "Start Turtle!",
+        "Burn Turtle down!",
+        "Take Turtle now!",
+        "Go for Turtle!"
+      ],
+      "hunt_broken": [
+        "Start Turtle",
+        "Burn Turtle",
+        "Take Turtle",
+        "Go Turtle"
+      ],
+      "hunt_very_broken": [
+        "Turtle!",
+        "Hit Turtle",
+        "Kill Turtle",
+        "Turtle go"
+      ],
+      "battle": [
+        "Be ready to fight if they come",
+        "Force a fight at Turtle",
+        "Prioritize the fight, not the kill"
+      ],
+      "battle_broken": [
+        "Ready fight if come",
+        "Force fight Turtle",
+        "Fight first, not kill"
+      ],
+      "give_up": {
+        "stack_ahead": [
+          "We're ahead on stacks, Turtle's not worth it",
+          "Stack lead, we can give this one",
+          "We lead Turtle count, let it go"
+        ],
+        "stack_ahead_broken": [
+          "We ahead, skip Turtle",
+          "Lead stacks, give it",
+          "Ahead, let Turtle go"
+        ],
+        "outnumbered": [
+          "Outnumbered at Turtle, back off",
+          "They're stacked here, give Turtle",
+          "We're losing at Turtle, pull back"
+        ],
+        "outnumbered_broken": [
+          "Outnumbered, give Turtle",
+          "They're stacked, back",
+          "Losing Turtle, pull back"
+        ]
+      },
+      "steal": {
+        "lurk": [
+          "Watching for a steal",
+          "Looking for the snipe",
+          "Eyes on Turtle"
+        ],
+        "lurk_broken": [
+          "Watch Turtle",
+          "Look for steal",
+          "Eyes on Turtle"
+        ]
+      },
+      "disband": {
+        "outmatched": [
+          "We're losing at Turtle, back off",
+          "We lose if we fight now, drop Turtle",
+          "They're stronger, give them Turtle"
+        ],
+        "outmatched_broken": [
+          "Losing Turtle, back",
+          "Fight now we lose, drop",
+          "They strong, give it"
+        ],
+        "pullback": [
+          "We're behind, leave Turtle and catch the wave",
+          "Drop Turtle, our lane's getting pushed"
+        ],
+        "pullback_broken": [
+          "Behind, catch wave",
+          "Drop Turtle, lane first"
+        ],
+        "alone": [
+          "Can't take it alone, I'm out",
+          "Nobody's coming, dropping Turtle"
+        ],
+        "alone_broken": [
+          "Alone, can't, I go",
+          "No one come, drop Turtle"
+        ],
+        "no_window": [
+          "No angle, skip this Turtle",
+          "Missed the timing, drop Turtle"
+        ],
+        "no_window_broken": [
+          "No angle, skip",
+          "Too late, drop Turtle"
+        ]
+      },
+      "setup_enemy_down": [
+        "{Count} of them are dead, let's look at Turtle",
+        "They're down {Count}, let's go Turtle"
+      ],
+      "setup_enemy_down_broken": [
+        "{Count} dead, look Turtle",
+        "{Count} down, go Turtle"
+      ],
+      "setup_enemy_down_very_broken": [
+        "{Count} dead, Turtle",
+        "Go Turtle"
+      ]
+    },
+    "morgard": {
+      "prepare": [
+        "Elemental Lord spawns in {Time}s",
+        "Elemental Lord’s coming up",
+        "Elemental Lord time soon"
+      ],
+      "prepare_broken": [
+        "Elemental Lord soon {Time}s",
+        "Elemental Lord up soon",
+        "Elemental Lord time"
+      ],
+      "prepare_very_broken": [
+        "Elemental Lord soon",
+        "Elemental Lord",
+        "Soon"
+      ],
+      "setup": [
+        "Looks good for Elemental Lord. Heading there",
+        "Let’s prep for Elemental Lord",
+        "Planning for Elemental Lord"
+      ],
+      "setup_broken": [
+        "Elemental Lord good, going",
+        "Prep Elemental Lord",
+        "Plan Elemental Lord"
+      ],
+      "setup_very_broken": [
+        "Elemental Lord prep",
+        "Elemental Lord",
+        "Elemental Lord go"
+      ],
+      "check": [
+        "Checking vision around Elemental Lord",
+        "Scouting Elemental Lord",
+        "Checking Elemental Lord’s up"
+      ],
+      "check_broken": [
+        "Check Elemental Lord vision",
+        "Scout Elemental Lord",
+        "Check Elemental Lord up"
+      ],
+      "check_very_broken": [
+        "Elemental Lord check",
+        "Elemental Lord scout",
+        "Elemental Lord up"
+      ],
+      "enemy_hunt": [
+        "They might be on Elemental Lord. Let's check",
+        "Enemy’s probably at Elemental Lord",
+        "Elemental Lord pit needs a look"
+      ],
+      "enemy_hunt_broken": [
+        "Enemy maybe Elemental Lord, check",
+        "Enemy at Elemental Lord",
+        "Elemental Lord pit check"
+      ],
+      "enemy_hunt_very_broken": [
+        "Enemy Elemental Lord",
+        "Elemental Lord enemy",
+        "Check Elemental Lord"
+      ],
+      "assemble": [
+        "Group up at Elemental Lord",
+        "Rally at Elemental Lord",
+        "Everyone to Elemental Lord!"
+      ],
+      "assemble_broken": [
+        "Group Elemental Lord",
+        "Rally Elemental Lord",
+        "All to Elemental Lord!"
+      ],
+      "assemble_very_broken": [
+        "Elemental Lord group",
+        "Elemental Lord",
+        "Elemental Lord rally"
+      ],
+      "hunt": [
+        "Start Elemental Lord!",
+        "Focus damage on Elemental Lord!"
+      ],
+      "hunt_broken": [
+        "Start Elemental Lord",
+        "Damage Elemental Lord"
+      ],
+      "hunt_very_broken": [
+        "Elemental Lord!",
+        "Hit Elemental Lord"
+      ],
+      "battle": [
+        "Be ready to fight if they come",
+        "Force a teamfight at Elemental Lord",
+        "Engage if they show"
+      ],
+      "battle_broken": [
+        "Ready fight if come",
+        "Force teamfight Elemental Lord",
+        "Engage if show"
+      ],
+      "give_up": [
+        "Outnumbered at Elemental Lord, pulling back",
+        "They're stacked here, give Elemental Lord",
+        "We're losing at Elemental Lord, back off"
+      ],
+      "give_up_broken": [
+        "Outnumbered, give Elemental Lord",
+        "They're stacked, back",
+        "Losing Elemental Lord, back"
+      ],
+      "steal": {
+        "lurk": [
+          "Watching for a steal",
+          "Looking for the snipe",
+          "Eyes on Elemental Lord"
+        ],
+        "lurk_broken": [
+          "Watch Elemental Lord",
+          "Look for steal",
+          "Eyes on Elemental Lord"
+        ],
+        "commit": [
+          "Going in, steal!",
+          "Snatching Elemental Lord now!",
+          "I'm taking it!"
+        ],
+        "commit_broken": [
+          "Steal now",
+          "Snatch Elemental Lord",
+          "Take it"
+        ]
+      },
+      "disband": {
+        "outmatched": [
+          "We're losing at Elemental Lord, back off",
+          "We lose if we fight now, drop Elemental Lord",
+          "They're stronger, give them Elemental Lord"
+        ],
+        "outmatched_broken": [
+          "Losing Elemental Lord, back",
+          "Fight now we lose, drop",
+          "They strong, give it"
+        ],
+        "pullback": [
+          "We're behind, leave Elemental Lord and catch the wave",
+          "Drop Elemental Lord, our lane's getting pushed"
+        ],
+        "pullback_broken": [
+          "Behind, catch wave",
+          "Drop Elemental Lord, lane first"
+        ],
+        "alone": [
+          "Can't take it alone, I'm out",
+          "Nobody's coming, dropping Elemental Lord"
+        ],
+        "alone_broken": [
+          "Alone, can't, I go",
+          "No one come, drop Elemental Lord"
+        ],
+        "no_window": [
+          "No angle, skip this Elemental Lord",
+          "Missed the timing, drop Elemental Lord"
+        ],
+        "no_window_broken": [
+          "No angle, skip",
+          "Too late, drop Elemental Lord"
+        ]
+      },
+      "setup_enemy_down": [
+        "{Count} of them are dead, let's look at Elemental Lord",
+        "They're down {Count}, let's go Elemental Lord"
+      ],
+      "setup_enemy_down_broken": [
+        "{Count} dead, look Elemental Lord",
+        "{Count} down, go Elemental Lord"
+      ],
+      "setup_enemy_down_very_broken": [
+        "{Count} dead, Elemental Lord",
+        "Go Elemental Lord"
+      ]
+    },
+    "craft": {
+      "epic_hunt": [
+        "Going in on Elemental Lord",
+        "Hitting Elemental Lord"
+      ],
+      "epic_hunt_broken": [
+        "Hit Elemental Lord",
+        "Elemental Lord damage"
+      ],
+      "epic_hunt_very_broken": [
+        "Elemental Lord",
+        "Elemental Lord hit"
+      ],
+      "epic_poke": [
+        "Zoning near Elemental Lord",
+        "Holding near Elemental Lord"
+      ],
+      "epic_poke_broken": [
+        "Zone Elemental Lord",
+        "Hold Elemental Lord"
+      ],
+      "epic_poke_very_broken": [
+        "Elemental Lord zone",
+        "Elemental Lord wait"
+      ],
+      "epic_check": [
+        "Checking Elemental Lord area",
+        "Scouting Elemental Lord"
+      ],
+      "epic_check_broken": [
+        "Check Elemental Lord",
+        "Scout Elemental Lord"
+      ],
+      "epic_check_very_broken": [
+        "Elemental Lord check",
+        "Elemental Lord"
+      ],
+      "serpen_hunt": [
+        "Going in on Turtle",
+        "Hitting Turtle"
+      ],
+      "serpen_hunt_broken": [
+        "Hit Turtle",
+        "Turtle damage"
+      ],
+      "serpen_hunt_very_broken": [
+        "Turtle",
+        "Turtle hit"
+      ],
+      "serpen_poke": [
+        "Zoning near Turtle",
+        "Holding near Turtle"
+      ],
+      "serpen_poke_broken": [
+        "Zone Turtle",
+        "Hold Turtle"
+      ],
+      "serpen_poke_very_broken": [
+        "Turtle zone",
+        "Turtle wait"
+      ],
+      "serpen_check": [
+        "Checking Turtle area",
+        "Scouting Turtle"
+      ],
+      "serpen_check_broken": [
+        "Check Turtle",
+        "Scout Turtle"
+      ],
+      "serpen_check_very_broken": [
+        "Turtle check",
+        "Turtle"
+      ]
+    },
+    "propose": {
+      "morgard": [
+        "How about Elemental Lord?",
+        "Elemental Lord looks doable",
+        "Wanna try Elemental Lord?"
+      ],
+      "morgard_broken": [
+        "Elemental Lord?",
+        "Elemental Lord's good",
+        "Try Elemental Lord?"
+      ],
+      "morgard_very_broken": [
+        "Morg?",
+        "Elemental Lord",
+        "Morg go?"
+      ],
+      "serpen": [
+        "How about Turtle?",
+        "Turtle looks doable",
+        "Wanna try Turtle?"
+      ],
+      "serpen_broken": [
+        "Turtle?",
+        "Turtle's good",
+        "Try Turtle?"
+      ],
+      "serpen_very_broken": [
+        "Serp?",
+        "Turtle",
+        "Serp go?"
+      ]
+    },
+    "call": {
+      "morgard": [
+        "Elemental Lord, let's go!",
+        "Going for Elemental Lord!",
+        "Taking Elemental Lord now!"
+      ],
+      "morgard_very_broken": [
+        "Elemental Lord",
+        "Morg go",
+        "Take Morg"
+      ],
+      "morgard_broken": [
+        "Elemental Lord go",
+        "Going Elemental Lord",
+        "Taking Elemental Lord"
+      ],
+      "serpen": [
+        "Turtle, let's go!",
+        "Going for Turtle!",
+        "Taking Turtle now!"
+      ],
+      "serpen_very_broken": [
+        "Turtle",
+        "Serp go",
+        "Take Serp"
+      ],
+      "serpen_broken": [
+        "Turtle go",
+        "Going Turtle",
+        "Taking Turtle"
+      ]
+    },
+    "enemy_inference": {
+      "top": {
+        "epic": [
+          "I think they're doing Elemental Lord"
+        ],
+        "epic_very_broken": [
+          "Enemy Elemental Lord"
+        ],
+        "epic_broken": [
+          "They doing Elemental Lord"
+        ],
+        "serpen": [
+          "I think they're doing Turtle"
+        ],
+        "serpen_very_broken": [
+          "Enemy Turtle"
+        ],
+        "serpen_broken": [
+          "They doing Turtle"
+        ]
+      },
+      "jungle": {
+        "epic": [
+          "I think they're doing Elemental Lord"
+        ],
+        "epic_very_broken": [
+          "Enemy Elemental Lord"
+        ],
+        "epic_broken": [
+          "They doing Elemental Lord"
+        ],
+        "serpen": [
+          "I think they're doing Turtle"
+        ],
+        "serpen_very_broken": [
+          "Enemy Turtle"
+        ],
+        "serpen_broken": [
+          "They doing Turtle"
+        ]
+      },
+      "mid": {
+        "epic": [
+          "I think they're doing Elemental Lord"
+        ],
+        "epic_very_broken": [
+          "Enemy Elemental Lord"
+        ],
+        "epic_broken": [
+          "They doing Elemental Lord"
+        ],
+        "serpen": [
+          "I think they're doing Turtle"
+        ],
+        "serpen_very_broken": [
+          "Enemy Turtle"
+        ],
+        "serpen_broken": [
+          "They doing Turtle"
+        ]
+      },
+      "bottom": {
+        "epic": [
+          "I think they're doing Elemental Lord"
+        ],
+        "epic_very_broken": [
+          "Enemy Elemental Lord"
+        ],
+        "epic_broken": [
+          "They doing Elemental Lord"
+        ],
+        "serpen": [
+          "I think they're doing Turtle"
+        ],
+        "serpen_very_broken": [
+          "Enemy Turtle"
+        ],
+        "serpen_broken": [
+          "They doing Turtle"
+        ]
+      },
+      "support": {
+        "epic": [
+          "I think they're doing Elemental Lord"
+        ],
+        "epic_very_broken": [
+          "Enemy Elemental Lord"
+        ],
+        "epic_broken": [
+          "They doing Elemental Lord"
+        ],
+        "serpen": [
+          "I think they're doing Turtle"
+        ],
+        "serpen_very_broken": [
+          "Enemy Turtle"
+        ],
+        "serpen_broken": [
+          "They doing Turtle"
+        ]
+      }
+    }
+  }
+}

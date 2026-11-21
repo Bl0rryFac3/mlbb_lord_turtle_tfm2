@@ -1,0 +1,26 @@
+{
+  "en": {
+    "section": {
+      "epic_buff": "Elemental Lord Minion Buff",
+      "serpen_buff": "Turtle Permanent Buff"
+    },
+    "epic": {
+      "name": "Elemental Lord",
+      "buff_desc": "Applied to allied minions near Elemental Lord while the Elemental Lord buff is active"
+    },
+    "serpen": {
+      "name": "Turtle",
+      "buff_desc": "Permanently applied to the entire team upon slaying Turtle"
+    }
+  },
+  "ko": {
+    "epic": {
+      "name": "엘리멘탈 로드",
+      "buff_desc": "엘리멘탈 로드의 바다의 축복 — 잠시 동안 미니언 웨이브를 강화합니다."
+    },
+    "serpen": {
+      "name": "거북이",
+      "buff_desc": "거북이의 축복받은 인비 — 팀 전체에 중첩되는 속성을 부여합니다."
+    }
+  }
+}

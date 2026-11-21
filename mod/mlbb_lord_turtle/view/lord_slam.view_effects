@@ -1,0 +1,588 @@
+{
+  "view_effects": [
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:ocean_force_hit",
+      "anim": "asset/mlbb_lord_turtle/sprites/elemental_lord",
+      "tag": "attack_target_effect",
+      "z": 1,
+      "is_follow": false
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_0_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_0_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_0_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_1_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_1_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_1_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_2_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_2_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_2_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_3_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_3_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_3_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_4_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_4_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_4_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_5_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_5_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_5_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_6_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_6_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_6_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_7_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_7_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_7_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_8_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_8_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_glide_8_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_0_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_0_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_0_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_1_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_1_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_1_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_left_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_2_left_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_left_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_2_left_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_left_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_left",
+      "tag": "body_attack_2_left_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_0_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_0_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_0_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_0_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_1_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_1_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_1_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_1_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_2_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_2_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_2_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_2_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_3_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_3_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_3_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_3_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_4_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_4_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_4_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_4_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_5_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_5_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_5_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_5_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_6_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_6_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_6_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_6_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_7_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_7_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_7_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_7_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_8_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_8_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_glide_8_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_glide_8_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_0_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_0_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_0_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_0_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_1_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_1_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_1_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_1_right_h3",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_right_h1",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_2_right_h1",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_right_h2",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_2_right_h2",
+      "z": 0,
+      "is_follow": true
+    },
+    {
+      "type": "Animation",
+      "name": "mlbb_lord_turtle:body_attack_2_right_h3",
+      "anim": "asset/mlbb_lord_turtle/effects/lord_body_right",
+      "tag": "body_attack_2_right_h3",
+      "z": 0,
+      "is_follow": true
+    }
+  ]
+}

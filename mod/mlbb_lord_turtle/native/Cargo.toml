@@ -1,0 +1,18 @@
+[package]
+name = "mlbb_lord_turtle"
+version = "0.1.16"
+edition = "2021"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+mod-api-stable = { path = "sdk/mod-api-stable" }
+
+[profile.release]
+opt-level = 2
+strip = "symbols"
+
+[workspace]
+exclude = ["sdk/mod-api-stable"]
